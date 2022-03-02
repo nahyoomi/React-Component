@@ -1,0 +1,17 @@
+body {
+  background-color: #f28ab2;
+  font-family: 'Poppins', sans-serif;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.btn {
+  background-color: #f28ab2;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  color: white;
+}
